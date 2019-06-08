@@ -9,6 +9,7 @@
 		"no-console": "off",
 		"linebreak-style": "off",
 		"indent": ["error", 4],
-		"quotes": [2, "single"]
+		"quotes": [2, "single"],
+		"import/prefer-default-export": false
 	}
 }
