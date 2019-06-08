@@ -8,6 +8,7 @@
 	"rules": {
 		"no-console": "off",
 		"linebreak-style": "off",
-		"indent": ["error", "tabs"]
+		"indent": ["error", 4],
+		"quotes": [2, "single"]
 	}
 }
