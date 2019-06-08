@@ -1,3 +1,5 @@
 {
-	"useTabs": true
+	"useTabs": true,
+	"editor.formatOnSave": true,
+	"tabWidth": 4
 }
